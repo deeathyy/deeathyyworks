@@ -1,2 +1,2 @@
-# deeathyyworks.github.io
+# deeathyyworks
 my site bruh
